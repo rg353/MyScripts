@@ -1,0 +1,5 @@
+FileName Treatment GErep 
+Normal_1.txt control 1 
+Normal_2.txt control 1 
+Tumor_1.txt case 2 
+Tumor_2.txt case 2 
