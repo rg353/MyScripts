@@ -1,3 +1,12 @@
+#---------------------------------------------------------------------------------
+# Name - Affymetrix.preprocess.replicates.mRNA.r
+# Desc - Pre-processing script for Affymetric mRNA expression data
+# Author - Robinder Gauba (rg353@georgetown.ed; robinaguba@gmail.com)
+# Source code - https://github.com/rg353/MyScripts/blob/master/preprocess.replicates.r
+#---------------------------------------------------------------------------------
+
+
+
 #--------------------------------EDIT---------------------------------------------
 targetspro="targets.txt"
 input_dir="/Users/rg353/Desktop/ICBI_NCI60"

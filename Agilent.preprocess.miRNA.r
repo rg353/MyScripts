@@ -1,5 +1,9 @@
-# Pre-processing script for Agilent miRNA expression data
-
+#---------------------------------------------------------------------------------
+# Name - Agilent.preprocess.miRNA.r
+# Desc - Pre-processing script for Agilent miRNA expression data
+# Author - Robinder Gauba (rg353@georgetown.ed; robinaguba@gmail.com)
+# Source code - https://github.com/rg353/MyScripts/blob/master/Agilent.preprocess.miRNA.r
+#---------------------------------------------------------------------------------
 
 # Call libraries
 library(limma)

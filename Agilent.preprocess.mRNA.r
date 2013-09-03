@@ -1,4 +1,9 @@
-# Pre-processing script for Agilent mRNA expression data
+#---------------------------------------------------------------------------------
+# Name - Agilent.preprocess.mRNA.r
+# Desc - Pre-processing script for Agilent mRNA expression data
+# Author - Robinder Gauba (rg353@georgetown.ed; robinaguba@gmail.com)
+# Source code - https://github.com/rg353/MyScripts/blob/master/Agilent.preprocess.mRNA.r
+#---------------------------------------------------------------------------------
 
 # Call libraries
 library('Agi4x44PreProcess')
